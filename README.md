@@ -39,8 +39,8 @@ Sou um profissional com sólida bagagem em TI, apaixonado por arquitetura de sof
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO-AQUI]&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USUARIO-AQUI]&layout=compact&theme=gotham&langs_count=6" alt="Linguagens mais usadas" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tostes55&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tostes55&layout=compact&theme=gotham&langs_count=6" alt="Linguagens mais usadas" height="180em" />
 </p>
 
 ---
