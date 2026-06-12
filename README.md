@@ -1,8 +1,10 @@
 # Olá, Victor aqui! 👋
 
-### 🚀 Desenvolvedor em transição/foco para o Backend | Especializando em Java & Spring
+### 🚀 Analista de Suporte N2 em transição para Dev Backend | Especializando em Java & Spring
 
-Sou um profissional com sólida bagagem em TI, apaixonado por arquitetura de software, resolução de problemas e otimização de sistemas. Atualmente, estou imerso no ecossistema do **Java** e **Spring Boot**, desenvolvendo APIs robustas, performáticas e escaláveis.
+Profissional com uma trajetória de 12 anos em TI, com ampla experiência em infraestrutura, análise de logs e ferramentas de observabilidade (como Grafana e Dynatrace) para garantir a saúde de ecossistemas corporativos. 
+
+Movido pelo desafio de construir soluções desde a raiz, hoje foco meus estudos e projetos no desenvolvimento Backend com **Java** e **Spring Boot** (Spring Data JPA, Security). Minha vivência em sustentação me dá uma perspectiva diferenciada para criar códigos que não apenas funcionam, mas que são fáceis de monitorar, testar e manter em produção.
 
 - 🛠️ Atualmente aprofundando em: Spring Boot, Spring Data JPA, Spring Security e APIs RESTful.
 - ⚙️ Experiência prática com: Observabilidade, monitoramento de aplicações e bancos de dados.
